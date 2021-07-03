@@ -61,9 +61,9 @@ I would like to focus on areas like responsive design because this is a vital as
 
 ### Useful resources
 
-- [Example resource 1](https://www.youtube.com/watch?v=JJSoEo8JSnc) - This helped me for placing my sections side by side, I really liked this pattern and will use it going forward.
-- [Example resource 2](https://shaydeecoder.hashnode.dev/responsive-design-strategy) - This is an amazing article which helped me finally understand rexponsive design. I'd recommend it to anyone still learning this concept.
+- [Resource 1](https://www.youtube.com/watch?v=JJSoEo8JSnc) - This helped me for placing my sections side by side, I really liked this pattern and will use it going forward.
+- [Resource 2](https://shaydeecoder.hashnode.dev/responsive-design-strategy) - This is an amazing article which helped me finally understand rexponsive design. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Timineri](https://www.frontendmentor.io/profile/Timineri)
